@@ -1,4 +1,7 @@
 # TP_Final
+
+https://github.com/EnzoMinchaca/TP_Final/tree/main
+
 Para crear las tablas:
 
 CREATE TABLE alumnos(
